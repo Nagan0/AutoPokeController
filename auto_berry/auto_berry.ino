@@ -103,6 +103,8 @@ void ChangeDate() {
   delay(30);
   MoveHatRight();
   delay(30);
+  MoveHatRight();
+  delay(30);
   PressA();
   delay(1000);
 
